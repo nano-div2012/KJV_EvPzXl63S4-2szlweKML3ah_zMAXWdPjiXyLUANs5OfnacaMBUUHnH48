@@ -1,0 +1,6 @@
+/* Gaya khusus halaman c-chat */
+.msgs{display:flex;flex-direction:column;gap:6px;max-height:58vh;overflow:auto;padding:4px 0}
+.msg{max-width:80%;padding:8px 10px;border-radius:var(--r);background:#fff;border:1px solid var(--line)}
+.msg.me{align-self:flex-end;background:#d9f5d0;border-color:#b7e3a8}
+.sendrow{margin-top:10px}
+

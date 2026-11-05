@@ -1,0 +1,5 @@
+/* Gaya khusus halaman c-rating */
+.stars{display:flex;gap:6px;margin:8px 0}
+.stars button{flex:1;padding:10px 0;border:1px solid #bdbdc4;border-radius:var(--r);background:#fff;font:inherit;font-weight:700}
+.stars button.on{background:#f5b301;border-color:#c98f00}
+

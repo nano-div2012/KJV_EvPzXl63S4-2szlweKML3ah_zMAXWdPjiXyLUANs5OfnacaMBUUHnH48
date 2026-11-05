@@ -1,0 +1,4 @@
+/* Gaya khusus halaman c-selfie */
+.selfie{width:160px;height:160px;object-fit:cover;border-radius:8px;border:1px solid var(--line);display:block;margin:8px auto;background:#e9ece6}
+.selfie.ph{display:flex;align-items:center;justify-content:center;color:var(--mute);font-size:13px}
+

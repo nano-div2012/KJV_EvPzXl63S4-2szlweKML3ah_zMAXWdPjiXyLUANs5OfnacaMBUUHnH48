@@ -1,0 +1,3 @@
+/* Gaya khusus halaman a-customer */
+.avatar{width:110px;height:110px;object-fit:cover;border-radius:8px;border:1px solid var(--line);margin-bottom:6px}
+

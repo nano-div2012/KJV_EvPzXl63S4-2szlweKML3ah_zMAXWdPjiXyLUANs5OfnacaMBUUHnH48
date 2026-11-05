@@ -1,0 +1,5 @@
+/* Gaya khusus halaman c-jastip */
+.prod{border-top:1px dashed var(--line);padding-top:8px;margin-top:8px}
+.prod .row{margin-top:6px}
+.prod .pt{margin-top:6px}
+

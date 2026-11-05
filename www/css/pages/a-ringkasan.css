@@ -1,0 +1,6 @@
+/* Gaya khusus halaman a-ringkasan */
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.grid2 .card{margin:0}
+.big{font-size:26px;font-weight:700;margin:0}
+.sec{margin:16px 4px 8px;font-size:16px}
+

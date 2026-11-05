@@ -1,0 +1,5 @@
+/* Gaya khusus halaman c-status */
+.steps{display:flex;list-style:none;padding:0;margin:14px 0 0;gap:4px}
+.steps li{flex:1;font-size:12px;padding-top:8px;border-top:4px solid var(--line);color:var(--mute)}
+.steps li.on{border-top-color:var(--green);color:var(--ink);font-weight:700}
+

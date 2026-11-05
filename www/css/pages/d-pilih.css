@@ -1,0 +1,4 @@
+/* Gaya khusus halaman d-pilih */
+.drv{display:flex;justify-content:space-between;align-items:center;text-align:left}
+.drv span{color:var(--mute);font-weight:400;font-size:13px}
+
